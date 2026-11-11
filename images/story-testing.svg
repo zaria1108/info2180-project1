@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Shield with a medical cross and test tube">
+  <rect width="300" height="300" fill="#C6F6D5"/>
+  <path d="M150 45 L232 75 L232 150 Q232 215 150 255 Q68 215 68 150 L68 75Z" fill="#48BB78"/>
+  <rect x="138" y="100" width="24" height="90" rx="4" fill="#FFFFFF"/>
+  <rect x="105" y="133" width="90" height="24" rx="4" fill="#FFFFFF"/>
+  <g transform="rotate(30 235 220)">
+    <rect x="225" y="170" width="22" height="90" rx="11" fill="#EBF8FF" stroke="#4A5568" stroke-width="4"/>
+    <rect x="228" y="215" width="16" height="42" rx="8" fill="#5A67D8"/>
+    <rect x="220" y="166" width="32" height="8" rx="3" fill="#4A5568"/>
+  </g>
+</svg>

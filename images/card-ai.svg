@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Friendly robot with a health chart">
+  <rect x="0" y="0" width="400" height="300" fill="#F7FAFC"/>
+  <line x1="200" y1="40" x2="200" y2="62" stroke="#4A5568" stroke-width="6"/>
+  <circle cx="200" cy="36" r="9" fill="#48BB78"/>
+  <rect x="140" y="62" width="120" height="90" rx="26" fill="#E2E8F0" stroke="#4A5568" stroke-width="5"/>
+  <rect x="156" y="84" width="88" height="44" rx="20" fill="#2D3748"/>
+  <circle cx="180" cy="106" r="8" fill="#48BB78"/>
+  <circle cx="220" cy="106" r="8" fill="#48BB78"/>
+  <rect x="150" y="160" width="100" height="80" rx="20" fill="#E2E8F0" stroke="#4A5568" stroke-width="5"/>
+  <path d="M166 205 L186 205 L196 185 L210 225 L220 205 L236 205" fill="none" stroke="#E53E3E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 180 L112 200" stroke="#4A5568" stroke-width="10" stroke-linecap="round"/>
+  <path d="M250 180 L288 200" stroke="#4A5568" stroke-width="10" stroke-linecap="round"/>
+  <rect x="300" y="190" width="14" height="40" fill="#5A67D8"/>
+  <rect x="322" y="170" width="14" height="60" fill="#48BB78"/>
+  <rect x="344" y="150" width="14" height="80" fill="#4299E1"/>
+  <rect x="60" y="215" width="14" height="25" fill="#4299E1"/>
+  <rect x="82" y="200" width="14" height="40" fill="#5A67D8"/>
+</svg>

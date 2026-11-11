@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Phone showing a fitness tracker">
+  <rect x="0" y="0" width="400" height="300" fill="#F7FAFC"/>
+  <rect x="140" y="20" width="120" height="260" rx="18" fill="#2D3748"/>
+  <rect x="150" y="42" width="100" height="216" rx="8" fill="#EBF8FF"/>
+  <rect x="185" y="28" width="30" height="6" rx="3" fill="#4A5568"/>
+  <circle cx="200" cy="100" r="30" fill="none" stroke="#E2E8F0" stroke-width="10"/>
+  <path d="M200 70 A30 30 0 1 1 172 112" fill="none" stroke="#48BB78" stroke-width="10" stroke-linecap="round"/>
+  <path d="M200 112 C186 100 188 88 197 88 C200 88 200 92 200 92 C200 92 200 88 203 88 C212 88 214 100 200 112Z" fill="#E53E3E"/>
+  <path d="M160 175 L180 175 L188 160 L200 195 L210 170 L216 175 L240 175" fill="none" stroke="#5A67D8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="162" y="210" width="76" height="10" rx="5" fill="#CBD5E0"/>
+  <rect x="162" y="210" width="50" height="10" rx="5" fill="#48BB78"/>
+  <rect x="162" y="232" width="76" height="10" rx="5" fill="#CBD5E0"/>
+  <rect x="162" y="232" width="30" height="10" rx="5" fill="#4299E1"/>
+  <circle cx="90" cy="230" r="16" fill="#4299E1"/>
+  <circle cx="320" cy="70" r="12" fill="#48BB78"/>
+  <circle cx="330" cy="220" r="8" fill="#ED64A6"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Illustration of a doctor">
+  <rect width="300" height="300" fill="#BEE3F8"/>
+  <path d="M40 300 Q40 205 150 200 Q260 205 260 300Z" fill="#FFFFFF"/>
+  <path d="M120 202 L150 250 L180 202Z" fill="#2B6CB0"/>
+  <path d="M104 205 Q100 250 120 262 M196 205 Q200 250 180 262" fill="none" stroke="#2D3748" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="120" cy="264" r="8" fill="#718096"/>
+  <rect x="135" y="170" width="30" height="40" rx="10" fill="#8D5524"/>
+  <circle cx="150" cy="130" r="48" fill="#8D5524"/>
+  <path d="M102 120 Q104 76 150 76 Q196 76 198 120 Q180 98 150 100 Q120 98 102 120Z" fill="#1A202C"/>
+  <circle cx="132" cy="136" r="5" fill="#1A202C"/>
+  <circle cx="168" cy="136" r="5" fill="#1A202C"/>
+  <path d="M134 158 Q150 172 166 158" fill="none" stroke="#1A202C" stroke-width="5" stroke-linecap="round"/>
+</svg>
